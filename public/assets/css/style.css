@@ -1,0 +1,19 @@
+ header{
+ 	width: auto;
+ 	height: auto;
+ 	margin:0 auto;
+ }
+ .logo{
+ 	height: 80px;
+ }
+ .content-form {
+ width: 348px;
+ margin: 0 auto;
+ }
+
+  .login-form {
+  margin-top: 50px;
+ width: 248px;
+ margin: 0 auto;
+ }
+ 
